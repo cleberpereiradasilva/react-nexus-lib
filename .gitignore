@@ -17,8 +17,8 @@ lib-cov
 # Coverage directory used by tools like istanbul
 coverage
 data
-react/node_modules
-build/
+react/the-card/node_modules
+react/the-card/build/
 
 # nyc test coverage
 .nyc_output
